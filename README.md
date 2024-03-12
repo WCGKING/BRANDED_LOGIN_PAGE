@@ -2,8 +2,7 @@
     ──「 𝐁𝐑𝐀𝐍𝐃𝐄𝐃 𝐋𝐎𝐆𝐈𝐍 𝐏𝐀𝐆𝐄 」──
 
 
-
-    <p align="center">
+<p align="center">
   <img src="https://te.legra.ph/file/dc741c603907eb474e136.jpg">
 </p>
 
